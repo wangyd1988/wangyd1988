@@ -13,7 +13,7 @@
 
    <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[微信](/wangyd1988/wangyd1988/blob/main/1cd6f2e443eeb8f0107d6964121563e.jpg?raw=true)进一步交流。
+- 💬 如果你对我感兴趣，可以加我[微信](./cd6f2e443eeb8f0107d6964121563e.jpg?raw=true)进一步交流。
 
 - 📫 我的邮箱:[wang_yudong@inspur.com](wang_yudong@inspur.com)
 
