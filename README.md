@@ -13,21 +13,15 @@
 
    <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[微信](./cd6f2e443eeb8f0107d6964121563e.jpg?raw=true)进一步交流。
+- 💬 如果你对我感兴趣，可以加我[微信](https://raw.githubusercontent.com/wangyd1988/wangyd1988/main/1cd6f2e443eeb8f0107d6964121563e.jpg)进一步交流。
 
 - 📫 我的邮箱:[wang_yudong@inspur.com](wang_yudong@inspur.com)
 
 社区贡献：
+<br />
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangyd1988&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 社区开源项目：
-    [sriov-network-operator](https://github.com/kubeovn/sriov-network-operator)
-
- 
-
-
-
-
-
-
-
+<br />
+    [sriov-network-operator](https://github.com/kubeovn/sriov-network-opertor)
