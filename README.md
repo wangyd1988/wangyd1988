@@ -19,7 +19,7 @@
 
 社区贡献：
 <br />
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangyd1988&show_icons=true&count_private=tru)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangyd1988&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 社区开源项目：
