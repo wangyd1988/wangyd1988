@@ -17,11 +17,11 @@
 
 - 📫 我的邮箱:[wang_yudong@inspur.com](wang_yudong@inspur.com)
 
-社区贡献：
-<br />
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangyd1988&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+// 社区贡献：
+// <br />
+   // [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangyd1988&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+//<br />
 社区开源项目：
 <br />
 
